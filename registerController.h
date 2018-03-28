@@ -1,5 +1,6 @@
 #ifndef _REGISTERCONTROLLER_H_
 #define _REGISTERCONTROLLER_H_
+#include "ObserverPattern/ObserverPattern.cpp"
 #include "cashierView.h"
 #include "StoreInventory.h"
 #include "order.h"

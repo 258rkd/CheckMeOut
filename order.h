@@ -2,7 +2,7 @@
 #define ORDER_H
 #include <vector>
 #include "item.h"
-
+#include "ObserverPattern/ObserverPattern.cpp"
 class order {
   private:
     std::vector<item> itemList;
